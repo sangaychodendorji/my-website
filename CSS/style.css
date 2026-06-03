@@ -21,3 +21,12 @@ footer{
     color: black;
     text-align: center;
 }
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:20px;
+    background-color: aqua;
+    color: black;
+
+}
