@@ -14,3 +14,10 @@ img {
     border: 2px solid brown;
 
 }
+footer{
+    height: 150px;
+    width: 100%;
+    background-color: azure;
+    color: black;
+    text-align: center;
+}
